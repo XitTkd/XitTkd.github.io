@@ -4367,10 +4367,10 @@
             }, [r("div", {staticClass: "col-xs-10 col-xs-offset-1 col-md-7 col-md-offset-0"}, [r("img", {attrs: {src: e.url}})]), r("div", {staticClass: "col-xs-10 col-xs-offset-1 col-md-5 col-md-offset-0 display-list__content"}, [r("div", {staticClass: "display-list__title"}, [t._v(t._s(e.title) + " ")]), r("div", {staticClass: "display-list__desc"}, [t._v(t._s(e.desc))])])])
         }), 0), r("div", {staticClass: "row ex-width info"}, [r("div", {staticClass: "col-xs-10 col-xs-offset-1"}, [t._v("©2017 - " + t._s(t.year) + " "), r("a", {
             attrs: {
-                href: "https://www.aiyc.top/",
+                href: "https://beian.miit.gov.cn/",
                 target: "_blank"
             }
-        }, [t._v("流沙团队提供技术支持")])])])])])
+        }, [t._v('流沙团队提供技术支持&闽ICP备19021486号-5')])])])])])
     }, [function () {
         var t = this.$createElement, e = this._self._c || t;
         return e("h3", {staticClass: "desc"}, [this._v("基于"), e("a", {
